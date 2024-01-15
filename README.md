@@ -13,6 +13,7 @@ Object Detection
 ## 사용환경
 <!-- <img src=https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={로고}&logoColor={로고컬러}> -->
 <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
 
 ## 사용기술
@@ -27,7 +28,7 @@ Object Detection
 
 목표
 
-![평가]()
+![평가](./imgs/evaluation.png)
 
 - mAP 값 0.8 달성을 목표로 함 (기존의 프로덕트는 0.7으로 해당 값을 기준값으로 정함)
 
