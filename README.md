@@ -1,7 +1,7 @@
 #  👑 Vienna Code Project 👑
 
 ## 주제
-![마크클라우드](./imgs/corp_logo.png)<br>
+![마크클라우드](./public/imgs/corp_logo.png)<br>
 **[CV] 마크클라우드 도형코드 인식 서비스**
 
 
@@ -28,7 +28,7 @@ Object Detection
 
 목표
 
-![평가](./imgs/evaluation.png)
+![평가](./public/imgs/evaluation.png)
 
 - mAP 값 0.8 달성을 목표로 함 (기존의 프로덕트는 0.7으로 해당 값을 기준값으로 정함)
 
