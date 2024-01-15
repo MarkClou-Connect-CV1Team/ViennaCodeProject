@@ -14,7 +14,7 @@ Object Detection
 <!-- <img src=https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={로고}&logoColor={로고컬러}> -->
 <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
-<br>
+
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
 
@@ -22,8 +22,8 @@ Object Detection
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Numpy-013243?style=plastic&logo=Numpy&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=Pandas&logoColor=white">
-<img src=https://img.shields.io/badge/scikit_learn-F7931E?style=plastic&logo=scikitlearn&logoColor={로고컬러}>
-<img src=https://img.shields.io/badge/pytorch-122323?style=plastic&logo=pytorch&logoColor={로고컬러}>
+<img src=https://img.shields.io/badge/scikit_learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white>
+<img src=https://img.shields.io/badge/pytorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white>
 
 
 ## 📅 기간
@@ -35,7 +35,7 @@ Object Detection
 
 목표
 
-![평가](./imgs/evaluation.png)
+![평가]()
 
 - mAP 값 0.8 달성을 목표로 함 (기존의 프로덕트는 0.7으로 해당 값을 기준값으로 정함)
 
