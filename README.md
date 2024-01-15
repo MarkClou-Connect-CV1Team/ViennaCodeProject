@@ -10,13 +10,13 @@
 ## 문제정의
 Object Detection
 
-## 사용환경
+## ⚙ 사용환경
 <!-- <img src=https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={로고}&logoColor={로고컬러}> -->
 <img src="https://img.shields.io/badge/windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 
 <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
 
-## 사용기술
+## 🛠 사용기술
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-013243?style=plastic&logo=Numpy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=Pandas&logoColor=white"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=plastic&logo=ScikitLearn&logoColor=white"> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=plastic&logo=Pytorch&logoColor=white"> 
 
 ## 📅 기간
