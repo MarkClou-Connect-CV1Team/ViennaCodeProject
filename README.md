@@ -75,7 +75,7 @@ Object Detection
 |--------------|------------------------------------------|
 | 이현희      | [ardor924@gmail.com](mailto:ardor924@gmail.com)  |
 | 강재성      | [@username2](mailto:email1@example.com) |
-| 이도형      | [@username4](mailto:email1@example.com) |
+| 이도형      | [@username4](mailto:ldlxxlbl@gmail.com) |
 | 정재훈      | [@username5](mailto:email1@example.com) |
 
 
