@@ -1,4 +1,4 @@
-#  process
+#  process of project
 
 ## contents
 
@@ -13,19 +13,19 @@
 - 이번 프로젝트는 주요 정보를 json 파일을 통해서 제공하고 있습니다. 그래서 프로젝트 기간 동안 원활한 작업 진행을 위해서 csv 파일로 추출했습니다.
 - json 파일의 구조는 이미지 정보, 주석 정보, 비엔나 코드 정보 세 개로 구분되어 있습니다.
 - 1.json_to_csv는 세 개의 정보를 따로 csv 파일로 추출하는 과정입니다.
-- 2.csv_edit은 병합하기 위해서 겹치는 칼럼을 만들어 주는 과정입니다.
+- 2.csv_edit은 병합하기 위해서 겹치는 컬럼을 만들어 주는 과정입니다.
 - 3.csv_merge는 겹치는 칼럼을 토대로 3개의 정보를 하나로 병합하는 과정입니다.
 
 ## dataset
 
-- YOLOv8 학습을 위한 데이터셋을 구성했습니다.
+- YOLOv8 학습을 위해서 해당 알고리즘 모델에 맞는 데이터셋이 존재해야 하기 때문에 알맞은 데이터셋을 구성하기 위한 코드입니다.
 - 기존에 제공된 정보에는 bbox 정보가 존재하는데 bbox의 형태는 x_min, y_min, width, height 순서로 되어 있습니다.
-- 제공된 bbox는 이미지 사이즈의 범위를 벗어나거나 음수의 형태로 존재하고 있는 경우가 있었습니다.
+- 제공된 bbox는 이미지 사이즈의 범위를 벗어나거나 x_min, y_min값이 음의 영역에 존재하고 있는 경우가 있었습니다.
 - dataset_v1은 범위를 지정해주고 YOLOv8의 형태인 x_center/image_width, y_center/image_height, bbox_width/image_width, bbox_height/image_width의 정보를 담고 있는 txt 파일을 생성해줍니다.
 - 데이터셋을 구성하고 확인해보니 제공된 bbox는 width, height에서도 음수를 가지고 있는 경우가 존재했습니다.
 - dataset_v2는 width, height를 직접 사용하지 않고 x_max, y_max 값으로 변환시켜줘서 잘 못된 부분을 바로 잡았습니다.
 - dataset_v3는 양의 범위로 완전히 bbox 좌표가 벗어나는 경우를 제거시켜줬습니다.
-- dataset_v4는 음의 범위로 완전히 bbox 좌표가 벗어나는 경우를 기간 동안.
+- dataset_v4는 음의 범위로 완전히 bbox 좌표가 벗어나는 경우를 제거시켜줬습니다.
 
 ## experiment
 
