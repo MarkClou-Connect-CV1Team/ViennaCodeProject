@@ -1,10 +1,10 @@
 task: detect
 mode: train
 model: yolov8m.yaml
-data: /content/drive/MyDrive/data/yolocustom2.yaml
+data: /content/drive/MyDrive/data/yolocustom1.yaml
 epochs: 100
 time: null
-patience: 8
+patience: 5
 batch: 8
 imgsz: 640
 save: true
@@ -12,7 +12,7 @@ save_period: -1
 cache: true
 device: 0
 workers: 16
-project: v2
+project: v1
 name: train
 exist_ok: true
 pretrained: false
@@ -102,4 +102,4 @@ erasing: 0.4
 crop_fraction: 1.0
 cfg: null
 tracker: botsort.yaml
-save_dir: v2/train
+save_dir: v1/train
