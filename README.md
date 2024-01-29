@@ -74,9 +74,9 @@ Object Detection
 | 이름        | Connect To                           |
 |--------------|------------------------------------------|
 | 이현희      | [ardor924@gmail.com](mailto:ardor924@gmail.com)  |
-| 강재성      | [@username2](mailto:email1@example.com) |
-| 이도형      | [@username4](mailto:ldlxxlbl@gmail.com) |
-| 정재훈      | [@username5](mailto:email1@example.com) |
+| 강재성      | [kg9884@naver.com](mailto:kg9884@naver.com) |
+| 이도형      | [ldlxxlbl@gmail.com](mailto:ldlxxlbl@gmail.com) |
+| 정재훈      | [jjh5720@gmail.com](mailto:jjh5720@gmail.com) |
 
 
 ## References
