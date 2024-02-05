@@ -33,7 +33,7 @@ mAP IoU Threshold(=0.5)
 
 ![평가](./public/imgs/evaluation.png)
 
-- 위에 이미지와 같은 느낌으로 데모 페이지 
+- 위에 이미지와 같은 방식으로 데모 페이지 만들기
 
 
 ##  🔔 컨벤션 규칙
