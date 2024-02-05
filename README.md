@@ -1,7 +1,7 @@
 #  👑 Vienna Code Project 👑
 
 ## 주제
-![마크클라우드](./public/imgs/corp_logo.png){: width="50%" height="50%"}<br>
+![마크클라우드](./public/imgs/corp_logo.png){: width="376" height="158"} <br>
 **[CV] 마크클라우드 도형코드 인식 서비스**
 
 
