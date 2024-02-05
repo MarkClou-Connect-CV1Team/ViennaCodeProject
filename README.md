@@ -24,24 +24,16 @@ Object Detection
 
 
 ##  ✍ 평가지표
-(임시) mAP IoU Threshold(=0.5) 
+mAP IoU Threshold(=0.5) 
 
 목표
+- mAP 0.6 이상
+
+## 📰 서비스 목표
 
 ![평가](./public/imgs/evaluation.png)
 
-- mAP 값 0.8 달성을 목표로 함 (기존의 프로덕트는 0.7으로 해당 값을 기준값으로 정함)
-
-- mAP의 측정 방식
-    - 분류된 도형코드 모두가 정답 도형코드에 포함되어야 통과
-        
-        i.e.
-        
-        분류된 도형코드: **050711, 050103, 020117**, 010201, 140102
-        
-        정답 도형코드: **050711, 050103, 020117**
-        
-        → 정답 050711, 050103, 020117 모두가 분류 코드 내에 포함됨으로 통과
+- 위에 이미지와 같은 느낌으로 데모 페이지 
 
 
 ##  🔔 컨벤션 규칙
@@ -80,4 +72,5 @@ Object Detection
 
 
 ## References
-[(예시) YOLOv8 깃허브 주소](https://github.com/ultralytics/ultralytics)
+[YOLOv8 깃허브 주소](https://github.com/ultralytics/ultralytics)
+[Aihub 상표 이미지 및 텍스트 데이터 주소](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=63)
