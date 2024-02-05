@@ -1,10 +1,10 @@
 #  👑 Vienna Code Project 👑
 
-## 주제
+## 📝 주제
 <img src="./public/imgs/corp_logo.png" width = "60%" height = "60%"> <br>
-**[CV] 마크클라우드 도형코드 인식 서비스**
+**[CV] 마크클라우드 도형 코드 인식 서비스**
 
-## 문제정의
+## 🚨 문제정의
 Object Detection
 
 ## ⚙ 사용환경
@@ -19,7 +19,6 @@ Object Detection
 ## 📅 기간
 2023.12.26 ~ 2024.02.08
 
-
 ##  ✍ 평가지표
 - mAP (IoU Threshold(=0.5)) 
 - 목표 : mAP 0.6 이상
@@ -29,7 +28,6 @@ Object Detection
 ![평가](./public/imgs/evaluation.png)
 
 - 위에 이미지와 같은 메커니즘으로 데모 페이지 만들기
-
 
 ##  🔔 컨벤션 규칙
 
