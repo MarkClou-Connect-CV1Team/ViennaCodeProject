@@ -1,7 +1,7 @@
 #  👑 Vienna Code Project 👑
 
 ## 주제
-![마크클라우드](./public/imgs/corp_logo.png) <br>
+<img src="./public/imgs/corp_logo.png" width = "60%" height = "60%"> <br>
 **[CV] 마크클라우드 도형코드 인식 서비스**
 
 ## 문제정의
@@ -21,10 +21,8 @@ Object Detection
 
 
 ##  ✍ 평가지표
-mAP IoU Threshold(=0.5) 
-
-목표
-- mAP 0.6 이상
+- mAP (IoU Threshold(=0.5)) 
+- 목표 : mAP 0.6 이상
 
 ## 📰 서비스 목표
 
