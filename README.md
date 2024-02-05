@@ -72,5 +72,5 @@ mAP IoU Threshold(=0.5)
 
 
 ## References
-[YOLOv8 깃허브 주소](https://github.com/ultralytics/ultralytics)
+[YOLOv8 깃허브 주소](https://github.com/ultralytics/ultralytics) <br/>
 [Aihub 상표 이미지 및 텍스트 데이터 주소](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=63)
