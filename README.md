@@ -4,9 +4,6 @@
 ![마크클라우드](./public/imgs/corp_logo.png) <br>
 **[CV] 마크클라우드 도형코드 인식 서비스**
 
-
-
-
 ## 문제정의
 Object Detection
 
@@ -72,5 +69,5 @@ mAP IoU Threshold(=0.5)
 
 
 ## References
-[YOLOv8 깃허브 주소](https://github.com/ultralytics/ultralytics) <br/>
-[Aihub 상표 이미지 및 텍스트 데이터 주소](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=63)
+[YOLOv8 깃허브](https://github.com/ultralytics/ultralytics) <br/>
+[Aihub 상표 이미지 및 텍스트 데이터](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=63)
